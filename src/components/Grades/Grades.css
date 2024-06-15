@@ -1,0 +1,11 @@
+.good {
+    color: green;
+}
+
+.good:hover {
+    text-decoration: underline;
+}
+
+.notGood {
+    color: red;
+}

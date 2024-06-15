@@ -1,0 +1,7 @@
+.city {
+    font-weight: bold;
+}
+
+.city:hover {
+    text-decoration: underline;
+}
